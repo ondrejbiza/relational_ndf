@@ -29,7 +29,7 @@ healpy
 configargparse
 cython
 #open3d>=0.11
-pynput#>=1.7.3
+pynput>=1.7.3
 ipython
 tqdm
 jedi==0.17.2  # to fix ipython bug
